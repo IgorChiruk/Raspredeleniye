@@ -1,0 +1,23 @@
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\bin\Debug\lab2.exe
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\bin\Debug\lab2.pdb
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.Form1.resources
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.exe
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.pdb
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+E:\Documents\К учёбе\БГУИР\Учебные материалы\3 курс\6 семестр only\Моделирование\Лабы\2\lab2\lab2\bin\Debug\lab2.exe.config
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.Form1.resources
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.exe
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.pdb
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\bin\Debug\lab2.exe.config
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\bin\Debug\lab2.exe
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\bin\Debug\lab2.pdb
+e:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+E:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\Interop.VSTOEE100.dll
+E:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\obj\Debug\lab2.csproj.ResolveComReference.cache
+E:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Учеба\Семестр 9\Математическое моделирование\мое\1\final\lab2\lab2\bin\Debug\stdole.dll
